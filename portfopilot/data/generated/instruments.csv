@@ -1,0 +1,501 @@
+instrument_id,symbol,name,asset_class,liquidity_tier,restricted,status
+INS-000001,EQ0001,Equity Holding 0001,Equity,High,False,ACTIVE
+INS-000002,EQ0002,Equity Holding 0002,Equity,High,False,ACTIVE
+INS-000003,EQ0003,Equity Holding 0003,Equity,High,False,ACTIVE
+INS-000004,EQ0004,Equity Holding 0004,Equity,High,False,ACTIVE
+INS-000005,EQ0005,Equity Holding 0005,Equity,High,False,ACTIVE
+INS-000006,EQ0006,Equity Holding 0006,Equity,High,False,ACTIVE
+INS-000007,RE0007,Real Estate Holding 0007,Real Estate,High,False,ACTIVE
+INS-000008,FI0008,Fixed Income Holding 0008,Fixed Income,High,False,ACTIVE
+INS-000009,EQ0009,Equity Holding 0009,Equity,High,False,ACTIVE
+INS-000010,EQ0010,Equity Holding 0010,Equity,High,False,ACTIVE
+INS-000011,RE0011,Real Estate Holding 0011,Real Estate,High,False,ACTIVE
+INS-000012,EQ0012,Equity Holding 0012,Equity,High,False,ACTIVE
+INS-000013,EQ0013,Equity Holding 0013,Equity,Medium,False,ACTIVE
+INS-000014,RE0014,Real Estate Holding 0014,Real Estate,High,False,ACTIVE
+INS-000015,AL0015,Alternatives Holding 0015,Alternatives,High,False,ACTIVE
+INS-000016,FI0016,Fixed Income Holding 0016,Fixed Income,High,False,ACTIVE
+INS-000017,EQ0017,Equity Holding 0017,Equity,Medium,False,ACTIVE
+INS-000018,AL0018,Alternatives Holding 0018,Alternatives,High,False,ACTIVE
+INS-000019,EQ0019,Equity Holding 0019,Equity,Low,False,ACTIVE
+INS-000020,EQ0020,Equity Holding 0020,Equity,High,False,ACTIVE
+INS-000021,EQ0021,Equity Holding 0021,Equity,Medium,False,ACTIVE
+INS-000022,CM0022,Commodities Holding 0022,Commodities,High,False,ACTIVE
+INS-000023,RE0023,Real Estate Holding 0023,Real Estate,High,False,ACTIVE
+INS-000024,FI0024,Fixed Income Holding 0024,Fixed Income,High,False,ACTIVE
+INS-000025,EQ0025,Equity Holding 0025,Equity,Medium,False,ACTIVE
+INS-000026,FI0026,Fixed Income Holding 0026,Fixed Income,High,False,ACTIVE
+INS-000027,EQ0027,Equity Holding 0027,Equity,High,False,ACTIVE
+INS-000028,EQ0028,Equity Holding 0028,Equity,Medium,False,ACTIVE
+INS-000029,RE0029,Real Estate Holding 0029,Real Estate,Medium,False,ACTIVE
+INS-000030,FI0030,Fixed Income Holding 0030,Fixed Income,High,False,ACTIVE
+INS-000031,EQ0031,Equity Holding 0031,Equity,High,False,ACTIVE
+INS-000032,EQ0032,Equity Holding 0032,Equity,Medium,False,ACTIVE
+INS-000033,EQ0033,Equity Holding 0033,Equity,High,False,ACTIVE
+INS-000034,EQ0034,Equity Holding 0034,Equity,High,False,ACTIVE
+INS-000035,RE0035,Real Estate Holding 0035,Real Estate,Medium,False,ACTIVE
+INS-000036,EQ0036,Equity Holding 0036,Equity,High,False,ACTIVE
+INS-000037,EQ0037,Equity Holding 0037,Equity,High,False,ACTIVE
+INS-000038,EQ0038,Equity Holding 0038,Equity,Medium,False,ACTIVE
+INS-000039,EQ0039,Equity Holding 0039,Equity,High,False,ACTIVE
+INS-000040,FI0040,Fixed Income Holding 0040,Fixed Income,Low,False,ACTIVE
+INS-000041,FI0041,Fixed Income Holding 0041,Fixed Income,Low,False,ACTIVE
+INS-000042,AL0042,Alternatives Holding 0042,Alternatives,High,False,ACTIVE
+INS-000043,EQ0043,Equity Holding 0043,Equity,Medium,False,ACTIVE
+INS-000044,CM0044,Commodities Holding 0044,Commodities,High,False,ACTIVE
+INS-000045,FI0045,Fixed Income Holding 0045,Fixed Income,High,False,ACTIVE
+INS-000046,FI0046,Fixed Income Holding 0046,Fixed Income,High,False,ACTIVE
+INS-000047,EQ0047,Equity Holding 0047,Equity,Medium,False,ACTIVE
+INS-000048,EQ0048,Equity Holding 0048,Equity,High,False,ACTIVE
+INS-000049,FI0049,Fixed Income Holding 0049,Fixed Income,High,False,ACTIVE
+INS-000050,EQ0050,Equity Holding 0050,Equity,Medium,False,ACTIVE
+INS-000051,EQ0051,Equity Holding 0051,Equity,Medium,False,ACTIVE
+INS-000052,FI0052,Fixed Income Holding 0052,Fixed Income,Medium,False,ACTIVE
+INS-000053,FI0053,Fixed Income Holding 0053,Fixed Income,Medium,False,ACTIVE
+INS-000054,EQ0054,Equity Holding 0054,Equity,High,False,ACTIVE
+INS-000055,FI0055,Fixed Income Holding 0055,Fixed Income,High,False,ACTIVE
+INS-000056,RE0056,Real Estate Holding 0056,Real Estate,High,False,ACTIVE
+INS-000057,EQ0057,Equity Holding 0057,Equity,Medium,False,ACTIVE
+INS-000058,AL0058,Alternatives Holding 0058,Alternatives,High,False,ACTIVE
+INS-000059,EQ0059,Equity Holding 0059,Equity,High,False,ACTIVE
+INS-000060,AL0060,Alternatives Holding 0060,Alternatives,Medium,False,ACTIVE
+INS-000061,EQ0061,Equity Holding 0061,Equity,Low,False,ACTIVE
+INS-000062,FI0062,Fixed Income Holding 0062,Fixed Income,High,False,ACTIVE
+INS-000063,AL0063,Alternatives Holding 0063,Alternatives,High,False,ACTIVE
+INS-000064,EQ0064,Equity Holding 0064,Equity,High,False,ACTIVE
+INS-000065,AL0065,Alternatives Holding 0065,Alternatives,Low,False,ACTIVE
+INS-000066,FI0066,Fixed Income Holding 0066,Fixed Income,High,False,ACTIVE
+INS-000067,FI0067,Fixed Income Holding 0067,Fixed Income,High,False,ACTIVE
+INS-000068,FI0068,Fixed Income Holding 0068,Fixed Income,High,False,ACTIVE
+INS-000069,FI0069,Fixed Income Holding 0069,Fixed Income,Medium,False,ACTIVE
+INS-000070,EQ0070,Equity Holding 0070,Equity,High,False,ACTIVE
+INS-000071,EQ0071,Equity Holding 0071,Equity,High,False,ACTIVE
+INS-000072,FI0072,Fixed Income Holding 0072,Fixed Income,Medium,False,ACTIVE
+INS-000073,EQ0073,Equity Holding 0073,Equity,Low,False,ACTIVE
+INS-000074,FI0074,Fixed Income Holding 0074,Fixed Income,High,False,ACTIVE
+INS-000075,FI0075,Fixed Income Holding 0075,Fixed Income,High,False,ACTIVE
+INS-000076,RE0076,Real Estate Holding 0076,Real Estate,Medium,False,ACTIVE
+INS-000077,FI0077,Fixed Income Holding 0077,Fixed Income,Medium,False,ACTIVE
+INS-000078,FI0078,Fixed Income Holding 0078,Fixed Income,High,False,ACTIVE
+INS-000079,EQ0079,Equity Holding 0079,Equity,High,False,ACTIVE
+INS-000080,EQ0080,Equity Holding 0080,Equity,Medium,False,ACTIVE
+INS-000081,EQ0081,Equity Holding 0081,Equity,Medium,False,ACTIVE
+INS-000082,RE0082,Real Estate Holding 0082,Real Estate,Low,False,ACTIVE
+INS-000083,AL0083,Alternatives Holding 0083,Alternatives,Medium,False,ACTIVE
+INS-000084,FI0084,Fixed Income Holding 0084,Fixed Income,Medium,False,ACTIVE
+INS-000085,EQ0085,Equity Holding 0085,Equity,Low,False,ACTIVE
+INS-000086,EQ0086,Equity Holding 0086,Equity,Medium,False,ACTIVE
+INS-000087,EQ0087,Equity Holding 0087,Equity,Medium,False,ACTIVE
+INS-000088,EQ0088,Equity Holding 0088,Equity,High,False,ACTIVE
+INS-000089,RE0089,Real Estate Holding 0089,Real Estate,High,True,ACTIVE
+INS-000090,EQ0090,Equity Holding 0090,Equity,Medium,False,ACTIVE
+INS-000091,EQ0091,Equity Holding 0091,Equity,Medium,False,ACTIVE
+INS-000092,FI0092,Fixed Income Holding 0092,Fixed Income,Medium,False,ACTIVE
+INS-000093,RE0093,Real Estate Holding 0093,Real Estate,High,False,ACTIVE
+INS-000094,RE0094,Real Estate Holding 0094,Real Estate,High,False,ACTIVE
+INS-000095,CM0095,Commodities Holding 0095,Commodities,High,False,ACTIVE
+INS-000096,EQ0096,Equity Holding 0096,Equity,High,False,ACTIVE
+INS-000097,EQ0097,Equity Holding 0097,Equity,High,False,ACTIVE
+INS-000098,FI0098,Fixed Income Holding 0098,Fixed Income,Medium,False,ACTIVE
+INS-000099,FI0099,Fixed Income Holding 0099,Fixed Income,High,False,ACTIVE
+INS-000100,RE0100,Real Estate Holding 0100,Real Estate,Medium,False,ACTIVE
+INS-000101,AL0101,Alternatives Holding 0101,Alternatives,Low,False,ACTIVE
+INS-000102,CM0102,Commodities Holding 0102,Commodities,High,False,ACTIVE
+INS-000103,EQ0103,Equity Holding 0103,Equity,Medium,False,ACTIVE
+INS-000104,AL0104,Alternatives Holding 0104,Alternatives,High,False,ACTIVE
+INS-000105,FI0105,Fixed Income Holding 0105,Fixed Income,High,False,ACTIVE
+INS-000106,AL0106,Alternatives Holding 0106,Alternatives,Medium,False,ACTIVE
+INS-000107,FI0107,Fixed Income Holding 0107,Fixed Income,High,False,ACTIVE
+INS-000108,EQ0108,Equity Holding 0108,Equity,High,False,ACTIVE
+INS-000109,EQ0109,Equity Holding 0109,Equity,High,False,ACTIVE
+INS-000110,EQ0110,Equity Holding 0110,Equity,High,False,ACTIVE
+INS-000111,EQ0111,Equity Holding 0111,Equity,High,False,ACTIVE
+INS-000112,RE0112,Real Estate Holding 0112,Real Estate,Low,False,ACTIVE
+INS-000113,CM0113,Commodities Holding 0113,Commodities,High,False,ACTIVE
+INS-000114,EQ0114,Equity Holding 0114,Equity,High,False,ACTIVE
+INS-000115,EQ0115,Equity Holding 0115,Equity,Medium,False,ACTIVE
+INS-000116,EQ0116,Equity Holding 0116,Equity,Low,False,ACTIVE
+INS-000117,FI0117,Fixed Income Holding 0117,Fixed Income,Medium,False,ACTIVE
+INS-000118,FI0118,Fixed Income Holding 0118,Fixed Income,High,False,ACTIVE
+INS-000119,FI0119,Fixed Income Holding 0119,Fixed Income,Medium,False,ACTIVE
+INS-000120,FI0120,Fixed Income Holding 0120,Fixed Income,Low,False,ACTIVE
+INS-000121,EQ0121,Equity Holding 0121,Equity,Medium,False,ACTIVE
+INS-000122,EQ0122,Equity Holding 0122,Equity,High,False,ACTIVE
+INS-000123,EQ0123,Equity Holding 0123,Equity,Medium,False,ACTIVE
+INS-000124,AL0124,Alternatives Holding 0124,Alternatives,Medium,False,ACTIVE
+INS-000125,FI0125,Fixed Income Holding 0125,Fixed Income,Low,False,ACTIVE
+INS-000126,FI0126,Fixed Income Holding 0126,Fixed Income,Medium,False,ACTIVE
+INS-000127,FI0127,Fixed Income Holding 0127,Fixed Income,Medium,False,ACTIVE
+INS-000128,EQ0128,Equity Holding 0128,Equity,High,False,ACTIVE
+INS-000129,EQ0129,Equity Holding 0129,Equity,High,False,ACTIVE
+INS-000130,FI0130,Fixed Income Holding 0130,Fixed Income,Medium,False,ACTIVE
+INS-000131,CM0131,Commodities Holding 0131,Commodities,Medium,False,ACTIVE
+INS-000132,FI0132,Fixed Income Holding 0132,Fixed Income,High,False,ACTIVE
+INS-000133,CM0133,Commodities Holding 0133,Commodities,High,False,ACTIVE
+INS-000134,FI0134,Fixed Income Holding 0134,Fixed Income,High,False,ACTIVE
+INS-000135,EQ0135,Equity Holding 0135,Equity,High,False,ACTIVE
+INS-000136,EQ0136,Equity Holding 0136,Equity,Low,False,ACTIVE
+INS-000137,AL0137,Alternatives Holding 0137,Alternatives,High,False,ACTIVE
+INS-000138,FI0138,Fixed Income Holding 0138,Fixed Income,High,False,ACTIVE
+INS-000139,AL0139,Alternatives Holding 0139,Alternatives,High,False,ACTIVE
+INS-000140,EQ0140,Equity Holding 0140,Equity,Medium,False,ACTIVE
+INS-000141,EQ0141,Equity Holding 0141,Equity,Low,False,ACTIVE
+INS-000142,FI0142,Fixed Income Holding 0142,Fixed Income,High,False,ACTIVE
+INS-000143,EQ0143,Equity Holding 0143,Equity,Medium,True,ACTIVE
+INS-000144,FI0144,Fixed Income Holding 0144,Fixed Income,Low,False,ACTIVE
+INS-000145,EQ0145,Equity Holding 0145,Equity,High,False,ACTIVE
+INS-000146,CM0146,Commodities Holding 0146,Commodities,Medium,False,ACTIVE
+INS-000147,EQ0147,Equity Holding 0147,Equity,Low,False,ACTIVE
+INS-000148,EQ0148,Equity Holding 0148,Equity,High,False,ACTIVE
+INS-000149,AL0149,Alternatives Holding 0149,Alternatives,Medium,False,ACTIVE
+INS-000150,EQ0150,Equity Holding 0150,Equity,Medium,False,ACTIVE
+INS-000151,EQ0151,Equity Holding 0151,Equity,Medium,False,ACTIVE
+INS-000152,RE0152,Real Estate Holding 0152,Real Estate,Medium,False,ACTIVE
+INS-000153,CM0153,Commodities Holding 0153,Commodities,High,False,ACTIVE
+INS-000154,FI0154,Fixed Income Holding 0154,Fixed Income,Medium,False,ACTIVE
+INS-000155,EQ0155,Equity Holding 0155,Equity,Medium,False,ACTIVE
+INS-000156,AL0156,Alternatives Holding 0156,Alternatives,High,False,ACTIVE
+INS-000157,EQ0157,Equity Holding 0157,Equity,Medium,False,ACTIVE
+INS-000158,AL0158,Alternatives Holding 0158,Alternatives,Low,False,ACTIVE
+INS-000159,EQ0159,Equity Holding 0159,Equity,Medium,False,ACTIVE
+INS-000160,CM0160,Commodities Holding 0160,Commodities,High,False,ACTIVE
+INS-000161,CM0161,Commodities Holding 0161,Commodities,Medium,False,ACTIVE
+INS-000162,CM0162,Commodities Holding 0162,Commodities,Medium,False,ACTIVE
+INS-000163,EQ0163,Equity Holding 0163,Equity,High,False,ACTIVE
+INS-000164,FI0164,Fixed Income Holding 0164,Fixed Income,High,False,ACTIVE
+INS-000165,FI0165,Fixed Income Holding 0165,Fixed Income,High,False,ACTIVE
+INS-000166,FI0166,Fixed Income Holding 0166,Fixed Income,High,False,ACTIVE
+INS-000167,AL0167,Alternatives Holding 0167,Alternatives,High,False,ACTIVE
+INS-000168,EQ0168,Equity Holding 0168,Equity,High,False,ACTIVE
+INS-000169,FI0169,Fixed Income Holding 0169,Fixed Income,Medium,False,ACTIVE
+INS-000170,FI0170,Fixed Income Holding 0170,Fixed Income,Medium,False,ACTIVE
+INS-000171,RE0171,Real Estate Holding 0171,Real Estate,Low,False,ACTIVE
+INS-000172,RE0172,Real Estate Holding 0172,Real Estate,Low,False,ACTIVE
+INS-000173,FI0173,Fixed Income Holding 0173,Fixed Income,Medium,True,ACTIVE
+INS-000174,FI0174,Fixed Income Holding 0174,Fixed Income,Low,False,ACTIVE
+INS-000175,AL0175,Alternatives Holding 0175,Alternatives,Medium,False,ACTIVE
+INS-000176,FI0176,Fixed Income Holding 0176,Fixed Income,High,False,ACTIVE
+INS-000177,FI0177,Fixed Income Holding 0177,Fixed Income,High,False,ACTIVE
+INS-000178,CM0178,Commodities Holding 0178,Commodities,High,False,ACTIVE
+INS-000179,FI0179,Fixed Income Holding 0179,Fixed Income,Medium,False,ACTIVE
+INS-000180,FI0180,Fixed Income Holding 0180,Fixed Income,Medium,False,ACTIVE
+INS-000181,FI0181,Fixed Income Holding 0181,Fixed Income,Low,False,ACTIVE
+INS-000182,FI0182,Fixed Income Holding 0182,Fixed Income,Medium,False,ACTIVE
+INS-000183,EQ0183,Equity Holding 0183,Equity,High,False,ACTIVE
+INS-000184,FI0184,Fixed Income Holding 0184,Fixed Income,Medium,False,ACTIVE
+INS-000185,EQ0185,Equity Holding 0185,Equity,Medium,False,ACTIVE
+INS-000186,FI0186,Fixed Income Holding 0186,Fixed Income,Medium,False,ACTIVE
+INS-000187,FI0187,Fixed Income Holding 0187,Fixed Income,High,False,ACTIVE
+INS-000188,EQ0188,Equity Holding 0188,Equity,Medium,False,ACTIVE
+INS-000189,AL0189,Alternatives Holding 0189,Alternatives,High,False,ACTIVE
+INS-000190,EQ0190,Equity Holding 0190,Equity,High,False,ACTIVE
+INS-000191,EQ0191,Equity Holding 0191,Equity,High,False,ACTIVE
+INS-000192,FI0192,Fixed Income Holding 0192,Fixed Income,Low,False,ACTIVE
+INS-000193,FI0193,Fixed Income Holding 0193,Fixed Income,High,False,ACTIVE
+INS-000194,FI0194,Fixed Income Holding 0194,Fixed Income,Medium,False,ACTIVE
+INS-000195,FI0195,Fixed Income Holding 0195,Fixed Income,Medium,False,ACTIVE
+INS-000196,CM0196,Commodities Holding 0196,Commodities,Medium,False,ACTIVE
+INS-000197,CM0197,Commodities Holding 0197,Commodities,High,False,ACTIVE
+INS-000198,RE0198,Real Estate Holding 0198,Real Estate,High,False,ACTIVE
+INS-000199,RE0199,Real Estate Holding 0199,Real Estate,High,False,ACTIVE
+INS-000200,AL0200,Alternatives Holding 0200,Alternatives,Medium,False,ACTIVE
+INS-000201,AL0201,Alternatives Holding 0201,Alternatives,High,False,ACTIVE
+INS-000202,EQ0202,Equity Holding 0202,Equity,Medium,False,ACTIVE
+INS-000203,EQ0203,Equity Holding 0203,Equity,Medium,False,ACTIVE
+INS-000204,EQ0204,Equity Holding 0204,Equity,High,False,ACTIVE
+INS-000205,AL0205,Alternatives Holding 0205,Alternatives,Low,False,ACTIVE
+INS-000206,EQ0206,Equity Holding 0206,Equity,Medium,False,ACTIVE
+INS-000207,FI0207,Fixed Income Holding 0207,Fixed Income,High,False,ACTIVE
+INS-000208,FI0208,Fixed Income Holding 0208,Fixed Income,Medium,False,ACTIVE
+INS-000209,EQ0209,Equity Holding 0209,Equity,High,False,ACTIVE
+INS-000210,EQ0210,Equity Holding 0210,Equity,Medium,True,ACTIVE
+INS-000211,EQ0211,Equity Holding 0211,Equity,High,False,ACTIVE
+INS-000212,EQ0212,Equity Holding 0212,Equity,Medium,False,ACTIVE
+INS-000213,EQ0213,Equity Holding 0213,Equity,Medium,False,ACTIVE
+INS-000214,RE0214,Real Estate Holding 0214,Real Estate,High,False,ACTIVE
+INS-000215,CM0215,Commodities Holding 0215,Commodities,Medium,True,ACTIVE
+INS-000216,EQ0216,Equity Holding 0216,Equity,Medium,False,ACTIVE
+INS-000217,FI0217,Fixed Income Holding 0217,Fixed Income,Medium,False,ACTIVE
+INS-000218,EQ0218,Equity Holding 0218,Equity,High,True,ACTIVE
+INS-000219,EQ0219,Equity Holding 0219,Equity,High,False,ACTIVE
+INS-000220,EQ0220,Equity Holding 0220,Equity,High,False,ACTIVE
+INS-000221,FI0221,Fixed Income Holding 0221,Fixed Income,Medium,False,ACTIVE
+INS-000222,RE0222,Real Estate Holding 0222,Real Estate,Low,False,ACTIVE
+INS-000223,FI0223,Fixed Income Holding 0223,Fixed Income,High,False,ACTIVE
+INS-000224,FI0224,Fixed Income Holding 0224,Fixed Income,Medium,False,ACTIVE
+INS-000225,EQ0225,Equity Holding 0225,Equity,High,False,ACTIVE
+INS-000226,FI0226,Fixed Income Holding 0226,Fixed Income,Medium,False,ACTIVE
+INS-000227,EQ0227,Equity Holding 0227,Equity,High,False,ACTIVE
+INS-000228,AL0228,Alternatives Holding 0228,Alternatives,Low,False,ACTIVE
+INS-000229,AL0229,Alternatives Holding 0229,Alternatives,Medium,False,ACTIVE
+INS-000230,FI0230,Fixed Income Holding 0230,Fixed Income,High,False,ACTIVE
+INS-000231,FI0231,Fixed Income Holding 0231,Fixed Income,Medium,False,ACTIVE
+INS-000232,AL0232,Alternatives Holding 0232,Alternatives,Low,False,ACTIVE
+INS-000233,RE0233,Real Estate Holding 0233,Real Estate,High,False,ACTIVE
+INS-000234,RE0234,Real Estate Holding 0234,Real Estate,Low,False,ACTIVE
+INS-000235,EQ0235,Equity Holding 0235,Equity,Medium,True,ACTIVE
+INS-000236,EQ0236,Equity Holding 0236,Equity,High,False,ACTIVE
+INS-000237,EQ0237,Equity Holding 0237,Equity,High,False,ACTIVE
+INS-000238,EQ0238,Equity Holding 0238,Equity,Medium,False,ACTIVE
+INS-000239,EQ0239,Equity Holding 0239,Equity,High,False,ACTIVE
+INS-000240,FI0240,Fixed Income Holding 0240,Fixed Income,High,False,ACTIVE
+INS-000241,AL0241,Alternatives Holding 0241,Alternatives,Medium,False,ACTIVE
+INS-000242,EQ0242,Equity Holding 0242,Equity,High,False,ACTIVE
+INS-000243,RE0243,Real Estate Holding 0243,Real Estate,High,False,ACTIVE
+INS-000244,EQ0244,Equity Holding 0244,Equity,High,False,ACTIVE
+INS-000245,EQ0245,Equity Holding 0245,Equity,High,False,ACTIVE
+INS-000246,EQ0246,Equity Holding 0246,Equity,Medium,False,ACTIVE
+INS-000247,FI0247,Fixed Income Holding 0247,Fixed Income,Low,False,ACTIVE
+INS-000248,CM0248,Commodities Holding 0248,Commodities,High,False,ACTIVE
+INS-000249,AL0249,Alternatives Holding 0249,Alternatives,Low,False,ACTIVE
+INS-000250,FI0250,Fixed Income Holding 0250,Fixed Income,High,False,ACTIVE
+INS-000251,AL0251,Alternatives Holding 0251,Alternatives,Low,False,ACTIVE
+INS-000252,EQ0252,Equity Holding 0252,Equity,Medium,False,ACTIVE
+INS-000253,FI0253,Fixed Income Holding 0253,Fixed Income,High,False,ACTIVE
+INS-000254,EQ0254,Equity Holding 0254,Equity,Medium,False,ACTIVE
+INS-000255,FI0255,Fixed Income Holding 0255,Fixed Income,High,False,ACTIVE
+INS-000256,FI0256,Fixed Income Holding 0256,Fixed Income,High,False,ACTIVE
+INS-000257,EQ0257,Equity Holding 0257,Equity,Medium,False,ACTIVE
+INS-000258,EQ0258,Equity Holding 0258,Equity,Low,False,ACTIVE
+INS-000259,AL0259,Alternatives Holding 0259,Alternatives,Low,False,ACTIVE
+INS-000260,AL0260,Alternatives Holding 0260,Alternatives,Medium,False,ACTIVE
+INS-000261,RE0261,Real Estate Holding 0261,Real Estate,High,False,ACTIVE
+INS-000262,FI0262,Fixed Income Holding 0262,Fixed Income,High,False,ACTIVE
+INS-000263,RE0263,Real Estate Holding 0263,Real Estate,Low,False,ACTIVE
+INS-000264,EQ0264,Equity Holding 0264,Equity,High,False,ACTIVE
+INS-000265,AL0265,Alternatives Holding 0265,Alternatives,High,False,ACTIVE
+INS-000266,RE0266,Real Estate Holding 0266,Real Estate,Low,False,ACTIVE
+INS-000267,AL0267,Alternatives Holding 0267,Alternatives,High,False,ACTIVE
+INS-000268,CM0268,Commodities Holding 0268,Commodities,Medium,False,ACTIVE
+INS-000269,EQ0269,Equity Holding 0269,Equity,Medium,False,ACTIVE
+INS-000270,EQ0270,Equity Holding 0270,Equity,Medium,False,ACTIVE
+INS-000271,FI0271,Fixed Income Holding 0271,Fixed Income,High,True,ACTIVE
+INS-000272,EQ0272,Equity Holding 0272,Equity,Medium,False,ACTIVE
+INS-000273,FI0273,Fixed Income Holding 0273,Fixed Income,High,False,ACTIVE
+INS-000274,EQ0274,Equity Holding 0274,Equity,High,False,ACTIVE
+INS-000275,EQ0275,Equity Holding 0275,Equity,Medium,False,ACTIVE
+INS-000276,AL0276,Alternatives Holding 0276,Alternatives,High,False,ACTIVE
+INS-000277,EQ0277,Equity Holding 0277,Equity,High,False,ACTIVE
+INS-000278,EQ0278,Equity Holding 0278,Equity,High,False,ACTIVE
+INS-000279,CM0279,Commodities Holding 0279,Commodities,Medium,False,ACTIVE
+INS-000280,RE0280,Real Estate Holding 0280,Real Estate,High,False,ACTIVE
+INS-000281,EQ0281,Equity Holding 0281,Equity,Medium,False,ACTIVE
+INS-000282,CM0282,Commodities Holding 0282,Commodities,High,False,ACTIVE
+INS-000283,EQ0283,Equity Holding 0283,Equity,Medium,False,ACTIVE
+INS-000284,EQ0284,Equity Holding 0284,Equity,Medium,False,ACTIVE
+INS-000285,FI0285,Fixed Income Holding 0285,Fixed Income,Medium,False,ACTIVE
+INS-000286,EQ0286,Equity Holding 0286,Equity,High,False,ACTIVE
+INS-000287,FI0287,Fixed Income Holding 0287,Fixed Income,High,False,ACTIVE
+INS-000288,EQ0288,Equity Holding 0288,Equity,Medium,False,ACTIVE
+INS-000289,AL0289,Alternatives Holding 0289,Alternatives,High,False,ACTIVE
+INS-000290,FI0290,Fixed Income Holding 0290,Fixed Income,Medium,False,ACTIVE
+INS-000291,RE0291,Real Estate Holding 0291,Real Estate,High,False,ACTIVE
+INS-000292,FI0292,Fixed Income Holding 0292,Fixed Income,Low,False,ACTIVE
+INS-000293,EQ0293,Equity Holding 0293,Equity,High,False,ACTIVE
+INS-000294,EQ0294,Equity Holding 0294,Equity,Low,False,ACTIVE
+INS-000295,FI0295,Fixed Income Holding 0295,Fixed Income,Medium,False,ACTIVE
+INS-000296,EQ0296,Equity Holding 0296,Equity,Medium,False,ACTIVE
+INS-000297,EQ0297,Equity Holding 0297,Equity,Medium,False,ACTIVE
+INS-000298,FI0298,Fixed Income Holding 0298,Fixed Income,High,False,ACTIVE
+INS-000299,FI0299,Fixed Income Holding 0299,Fixed Income,High,True,ACTIVE
+INS-000300,EQ0300,Equity Holding 0300,Equity,Low,False,ACTIVE
+INS-000301,EQ0301,Equity Holding 0301,Equity,High,False,ACTIVE
+INS-000302,EQ0302,Equity Holding 0302,Equity,High,False,ACTIVE
+INS-000303,EQ0303,Equity Holding 0303,Equity,High,False,ACTIVE
+INS-000304,AL0304,Alternatives Holding 0304,Alternatives,High,False,ACTIVE
+INS-000305,EQ0305,Equity Holding 0305,Equity,Medium,False,ACTIVE
+INS-000306,EQ0306,Equity Holding 0306,Equity,Medium,False,ACTIVE
+INS-000307,EQ0307,Equity Holding 0307,Equity,High,False,ACTIVE
+INS-000308,FI0308,Fixed Income Holding 0308,Fixed Income,Low,False,ACTIVE
+INS-000309,EQ0309,Equity Holding 0309,Equity,Low,False,ACTIVE
+INS-000310,EQ0310,Equity Holding 0310,Equity,Medium,False,ACTIVE
+INS-000311,EQ0311,Equity Holding 0311,Equity,High,False,ACTIVE
+INS-000312,EQ0312,Equity Holding 0312,Equity,Medium,False,ACTIVE
+INS-000313,EQ0313,Equity Holding 0313,Equity,Medium,False,ACTIVE
+INS-000314,EQ0314,Equity Holding 0314,Equity,Medium,False,ACTIVE
+INS-000315,CM0315,Commodities Holding 0315,Commodities,Low,False,ACTIVE
+INS-000316,FI0316,Fixed Income Holding 0316,Fixed Income,Medium,False,ACTIVE
+INS-000317,AL0317,Alternatives Holding 0317,Alternatives,Low,False,ACTIVE
+INS-000318,EQ0318,Equity Holding 0318,Equity,High,False,ACTIVE
+INS-000319,EQ0319,Equity Holding 0319,Equity,High,False,ACTIVE
+INS-000320,EQ0320,Equity Holding 0320,Equity,Medium,False,ACTIVE
+INS-000321,FI0321,Fixed Income Holding 0321,Fixed Income,Low,False,ACTIVE
+INS-000322,RE0322,Real Estate Holding 0322,Real Estate,Medium,False,ACTIVE
+INS-000323,FI0323,Fixed Income Holding 0323,Fixed Income,Medium,False,ACTIVE
+INS-000324,RE0324,Real Estate Holding 0324,Real Estate,High,False,ACTIVE
+INS-000325,EQ0325,Equity Holding 0325,Equity,Medium,False,ACTIVE
+INS-000326,FI0326,Fixed Income Holding 0326,Fixed Income,Medium,False,ACTIVE
+INS-000327,EQ0327,Equity Holding 0327,Equity,High,False,ACTIVE
+INS-000328,EQ0328,Equity Holding 0328,Equity,Low,False,ACTIVE
+INS-000329,FI0329,Fixed Income Holding 0329,Fixed Income,High,False,ACTIVE
+INS-000330,EQ0330,Equity Holding 0330,Equity,High,False,ACTIVE
+INS-000331,AL0331,Alternatives Holding 0331,Alternatives,High,False,ACTIVE
+INS-000332,RE0332,Real Estate Holding 0332,Real Estate,Medium,False,ACTIVE
+INS-000333,FI0333,Fixed Income Holding 0333,Fixed Income,High,False,ACTIVE
+INS-000334,FI0334,Fixed Income Holding 0334,Fixed Income,Medium,False,ACTIVE
+INS-000335,EQ0335,Equity Holding 0335,Equity,Medium,False,ACTIVE
+INS-000336,FI0336,Fixed Income Holding 0336,Fixed Income,Medium,False,ACTIVE
+INS-000337,RE0337,Real Estate Holding 0337,Real Estate,Low,False,ACTIVE
+INS-000338,FI0338,Fixed Income Holding 0338,Fixed Income,Medium,False,ACTIVE
+INS-000339,EQ0339,Equity Holding 0339,Equity,High,False,ACTIVE
+INS-000340,EQ0340,Equity Holding 0340,Equity,High,False,ACTIVE
+INS-000341,FI0341,Fixed Income Holding 0341,Fixed Income,High,False,ACTIVE
+INS-000342,EQ0342,Equity Holding 0342,Equity,Medium,False,ACTIVE
+INS-000343,EQ0343,Equity Holding 0343,Equity,Medium,False,ACTIVE
+INS-000344,CM0344,Commodities Holding 0344,Commodities,High,False,ACTIVE
+INS-000345,FI0345,Fixed Income Holding 0345,Fixed Income,Medium,False,ACTIVE
+INS-000346,FI0346,Fixed Income Holding 0346,Fixed Income,High,False,ACTIVE
+INS-000347,EQ0347,Equity Holding 0347,Equity,Medium,False,ACTIVE
+INS-000348,RE0348,Real Estate Holding 0348,Real Estate,High,False,ACTIVE
+INS-000349,EQ0349,Equity Holding 0349,Equity,High,False,ACTIVE
+INS-000350,FI0350,Fixed Income Holding 0350,Fixed Income,High,False,ACTIVE
+INS-000351,RE0351,Real Estate Holding 0351,Real Estate,High,False,ACTIVE
+INS-000352,CM0352,Commodities Holding 0352,Commodities,Medium,False,ACTIVE
+INS-000353,FI0353,Fixed Income Holding 0353,Fixed Income,High,False,ACTIVE
+INS-000354,EQ0354,Equity Holding 0354,Equity,High,False,ACTIVE
+INS-000355,EQ0355,Equity Holding 0355,Equity,High,False,ACTIVE
+INS-000356,FI0356,Fixed Income Holding 0356,Fixed Income,High,False,ACTIVE
+INS-000357,EQ0357,Equity Holding 0357,Equity,Low,False,ACTIVE
+INS-000358,CM0358,Commodities Holding 0358,Commodities,High,False,ACTIVE
+INS-000359,FI0359,Fixed Income Holding 0359,Fixed Income,Medium,False,ACTIVE
+INS-000360,EQ0360,Equity Holding 0360,Equity,High,False,ACTIVE
+INS-000361,FI0361,Fixed Income Holding 0361,Fixed Income,Medium,False,ACTIVE
+INS-000362,EQ0362,Equity Holding 0362,Equity,High,False,ACTIVE
+INS-000363,RE0363,Real Estate Holding 0363,Real Estate,High,False,ACTIVE
+INS-000364,CM0364,Commodities Holding 0364,Commodities,High,False,ACTIVE
+INS-000365,FI0365,Fixed Income Holding 0365,Fixed Income,Low,False,ACTIVE
+INS-000366,CM0366,Commodities Holding 0366,Commodities,High,False,ACTIVE
+INS-000367,EQ0367,Equity Holding 0367,Equity,Medium,False,ACTIVE
+INS-000368,CM0368,Commodities Holding 0368,Commodities,High,False,ACTIVE
+INS-000369,AL0369,Alternatives Holding 0369,Alternatives,Medium,False,ACTIVE
+INS-000370,AL0370,Alternatives Holding 0370,Alternatives,High,False,ACTIVE
+INS-000371,AL0371,Alternatives Holding 0371,Alternatives,Low,False,ACTIVE
+INS-000372,EQ0372,Equity Holding 0372,Equity,Medium,False,ACTIVE
+INS-000373,FI0373,Fixed Income Holding 0373,Fixed Income,High,False,ACTIVE
+INS-000374,EQ0374,Equity Holding 0374,Equity,High,False,ACTIVE
+INS-000375,AL0375,Alternatives Holding 0375,Alternatives,Low,False,ACTIVE
+INS-000376,FI0376,Fixed Income Holding 0376,Fixed Income,Medium,False,ACTIVE
+INS-000377,EQ0377,Equity Holding 0377,Equity,Medium,False,ACTIVE
+INS-000378,EQ0378,Equity Holding 0378,Equity,Low,False,ACTIVE
+INS-000379,FI0379,Fixed Income Holding 0379,Fixed Income,Medium,False,ACTIVE
+INS-000380,FI0380,Fixed Income Holding 0380,Fixed Income,Low,False,ACTIVE
+INS-000381,FI0381,Fixed Income Holding 0381,Fixed Income,High,True,ACTIVE
+INS-000382,EQ0382,Equity Holding 0382,Equity,High,False,ACTIVE
+INS-000383,FI0383,Fixed Income Holding 0383,Fixed Income,Medium,False,ACTIVE
+INS-000384,EQ0384,Equity Holding 0384,Equity,High,False,ACTIVE
+INS-000385,FI0385,Fixed Income Holding 0385,Fixed Income,Low,True,ACTIVE
+INS-000386,EQ0386,Equity Holding 0386,Equity,Medium,False,ACTIVE
+INS-000387,AL0387,Alternatives Holding 0387,Alternatives,Medium,False,ACTIVE
+INS-000388,EQ0388,Equity Holding 0388,Equity,High,False,ACTIVE
+INS-000389,FI0389,Fixed Income Holding 0389,Fixed Income,High,False,ACTIVE
+INS-000390,AL0390,Alternatives Holding 0390,Alternatives,High,False,ACTIVE
+INS-000391,EQ0391,Equity Holding 0391,Equity,Medium,False,ACTIVE
+INS-000392,EQ0392,Equity Holding 0392,Equity,Low,False,ACTIVE
+INS-000393,RE0393,Real Estate Holding 0393,Real Estate,High,False,ACTIVE
+INS-000394,CM0394,Commodities Holding 0394,Commodities,Medium,False,ACTIVE
+INS-000395,EQ0395,Equity Holding 0395,Equity,Low,False,ACTIVE
+INS-000396,FI0396,Fixed Income Holding 0396,Fixed Income,Medium,False,ACTIVE
+INS-000397,EQ0397,Equity Holding 0397,Equity,Medium,False,ACTIVE
+INS-000398,EQ0398,Equity Holding 0398,Equity,High,False,ACTIVE
+INS-000399,FI0399,Fixed Income Holding 0399,Fixed Income,Medium,False,ACTIVE
+INS-000400,RE0400,Real Estate Holding 0400,Real Estate,Medium,False,ACTIVE
+INS-000401,EQ0401,Equity Holding 0401,Equity,Low,False,ACTIVE
+INS-000402,AL0402,Alternatives Holding 0402,Alternatives,High,False,ACTIVE
+INS-000403,FI0403,Fixed Income Holding 0403,Fixed Income,Medium,False,ACTIVE
+INS-000404,CM0404,Commodities Holding 0404,Commodities,High,False,ACTIVE
+INS-000405,EQ0405,Equity Holding 0405,Equity,Medium,False,ACTIVE
+INS-000406,FI0406,Fixed Income Holding 0406,Fixed Income,High,False,ACTIVE
+INS-000407,EQ0407,Equity Holding 0407,Equity,Medium,False,ACTIVE
+INS-000408,EQ0408,Equity Holding 0408,Equity,High,False,ACTIVE
+INS-000409,RE0409,Real Estate Holding 0409,Real Estate,High,False,ACTIVE
+INS-000410,EQ0410,Equity Holding 0410,Equity,Medium,False,ACTIVE
+INS-000411,CM0411,Commodities Holding 0411,Commodities,Medium,False,ACTIVE
+INS-000412,RE0412,Real Estate Holding 0412,Real Estate,Medium,False,ACTIVE
+INS-000413,EQ0413,Equity Holding 0413,Equity,High,False,ACTIVE
+INS-000414,EQ0414,Equity Holding 0414,Equity,Medium,False,ACTIVE
+INS-000415,FI0415,Fixed Income Holding 0415,Fixed Income,Medium,False,ACTIVE
+INS-000416,FI0416,Fixed Income Holding 0416,Fixed Income,Medium,False,ACTIVE
+INS-000417,EQ0417,Equity Holding 0417,Equity,Medium,False,ACTIVE
+INS-000418,FI0418,Fixed Income Holding 0418,Fixed Income,Medium,False,ACTIVE
+INS-000419,AL0419,Alternatives Holding 0419,Alternatives,Medium,False,ACTIVE
+INS-000420,RE0420,Real Estate Holding 0420,Real Estate,Medium,False,ACTIVE
+INS-000421,RE0421,Real Estate Holding 0421,Real Estate,Medium,False,ACTIVE
+INS-000422,EQ0422,Equity Holding 0422,Equity,High,False,ACTIVE
+INS-000423,FI0423,Fixed Income Holding 0423,Fixed Income,High,False,ACTIVE
+INS-000424,EQ0424,Equity Holding 0424,Equity,Medium,False,ACTIVE
+INS-000425,EQ0425,Equity Holding 0425,Equity,Medium,False,ACTIVE
+INS-000426,CM0426,Commodities Holding 0426,Commodities,Medium,False,ACTIVE
+INS-000427,EQ0427,Equity Holding 0427,Equity,Medium,False,ACTIVE
+INS-000428,FI0428,Fixed Income Holding 0428,Fixed Income,Medium,False,ACTIVE
+INS-000429,EQ0429,Equity Holding 0429,Equity,Medium,False,ACTIVE
+INS-000430,FI0430,Fixed Income Holding 0430,Fixed Income,High,False,ACTIVE
+INS-000431,FI0431,Fixed Income Holding 0431,Fixed Income,High,False,ACTIVE
+INS-000432,FI0432,Fixed Income Holding 0432,Fixed Income,Medium,False,ACTIVE
+INS-000433,EQ0433,Equity Holding 0433,Equity,High,False,ACTIVE
+INS-000434,AL0434,Alternatives Holding 0434,Alternatives,High,False,ACTIVE
+INS-000435,FI0435,Fixed Income Holding 0435,Fixed Income,High,True,ACTIVE
+INS-000436,EQ0436,Equity Holding 0436,Equity,High,False,ACTIVE
+INS-000437,CM0437,Commodities Holding 0437,Commodities,Medium,False,ACTIVE
+INS-000438,RE0438,Real Estate Holding 0438,Real Estate,Low,False,ACTIVE
+INS-000439,FI0439,Fixed Income Holding 0439,Fixed Income,Medium,False,ACTIVE
+INS-000440,RE0440,Real Estate Holding 0440,Real Estate,High,False,ACTIVE
+INS-000441,AL0441,Alternatives Holding 0441,Alternatives,High,False,ACTIVE
+INS-000442,AL0442,Alternatives Holding 0442,Alternatives,High,False,ACTIVE
+INS-000443,CM0443,Commodities Holding 0443,Commodities,High,True,ACTIVE
+INS-000444,EQ0444,Equity Holding 0444,Equity,High,False,ACTIVE
+INS-000445,AL0445,Alternatives Holding 0445,Alternatives,High,False,ACTIVE
+INS-000446,EQ0446,Equity Holding 0446,Equity,Low,False,ACTIVE
+INS-000447,FI0447,Fixed Income Holding 0447,Fixed Income,Medium,False,ACTIVE
+INS-000448,FI0448,Fixed Income Holding 0448,Fixed Income,High,False,ACTIVE
+INS-000449,CM0449,Commodities Holding 0449,Commodities,High,False,ACTIVE
+INS-000450,FI0450,Fixed Income Holding 0450,Fixed Income,High,False,ACTIVE
+INS-000451,EQ0451,Equity Holding 0451,Equity,Medium,False,ACTIVE
+INS-000452,EQ0452,Equity Holding 0452,Equity,High,False,ACTIVE
+INS-000453,EQ0453,Equity Holding 0453,Equity,High,True,ACTIVE
+INS-000454,EQ0454,Equity Holding 0454,Equity,Low,False,ACTIVE
+INS-000455,AL0455,Alternatives Holding 0455,Alternatives,Low,False,ACTIVE
+INS-000456,FI0456,Fixed Income Holding 0456,Fixed Income,Low,False,ACTIVE
+INS-000457,EQ0457,Equity Holding 0457,Equity,Medium,False,ACTIVE
+INS-000458,EQ0458,Equity Holding 0458,Equity,Medium,False,ACTIVE
+INS-000459,AL0459,Alternatives Holding 0459,Alternatives,High,False,ACTIVE
+INS-000460,EQ0460,Equity Holding 0460,Equity,Medium,False,ACTIVE
+INS-000461,EQ0461,Equity Holding 0461,Equity,High,False,ACTIVE
+INS-000462,FI0462,Fixed Income Holding 0462,Fixed Income,Medium,False,ACTIVE
+INS-000463,FI0463,Fixed Income Holding 0463,Fixed Income,High,False,ACTIVE
+INS-000464,EQ0464,Equity Holding 0464,Equity,High,False,ACTIVE
+INS-000465,EQ0465,Equity Holding 0465,Equity,High,False,ACTIVE
+INS-000466,AL0466,Alternatives Holding 0466,Alternatives,Medium,False,ACTIVE
+INS-000467,FI0467,Fixed Income Holding 0467,Fixed Income,High,False,ACTIVE
+INS-000468,AL0468,Alternatives Holding 0468,Alternatives,High,False,ACTIVE
+INS-000469,EQ0469,Equity Holding 0469,Equity,High,False,ACTIVE
+INS-000470,EQ0470,Equity Holding 0470,Equity,High,False,ACTIVE
+INS-000471,AL0471,Alternatives Holding 0471,Alternatives,Low,False,ACTIVE
+INS-000472,CM0472,Commodities Holding 0472,Commodities,High,False,ACTIVE
+INS-000473,EQ0473,Equity Holding 0473,Equity,Low,False,ACTIVE
+INS-000474,AL0474,Alternatives Holding 0474,Alternatives,Low,False,ACTIVE
+INS-000475,AL0475,Alternatives Holding 0475,Alternatives,High,False,ACTIVE
+INS-000476,FI0476,Fixed Income Holding 0476,Fixed Income,High,False,ACTIVE
+INS-000477,EQ0477,Equity Holding 0477,Equity,High,False,ACTIVE
+INS-000478,EQ0478,Equity Holding 0478,Equity,Low,False,ACTIVE
+INS-000479,FI0479,Fixed Income Holding 0479,Fixed Income,High,False,ACTIVE
+INS-000480,EQ0480,Equity Holding 0480,Equity,Medium,False,ACTIVE
+INS-000481,FI0481,Fixed Income Holding 0481,Fixed Income,Medium,False,ACTIVE
+INS-000482,AL0482,Alternatives Holding 0482,Alternatives,Low,True,ACTIVE
+INS-000483,EQ0483,Equity Holding 0483,Equity,High,False,ACTIVE
+INS-000484,EQ0484,Equity Holding 0484,Equity,Medium,False,ACTIVE
+INS-000485,CM0485,Commodities Holding 0485,Commodities,Low,False,ACTIVE
+INS-000486,CM0486,Commodities Holding 0486,Commodities,Medium,False,ACTIVE
+INS-000487,FI0487,Fixed Income Holding 0487,Fixed Income,Medium,False,ACTIVE
+INS-000488,FI0488,Fixed Income Holding 0488,Fixed Income,Medium,False,ACTIVE
+INS-000489,FI0489,Fixed Income Holding 0489,Fixed Income,High,False,ACTIVE
+INS-000490,FI0490,Fixed Income Holding 0490,Fixed Income,High,False,ACTIVE
+INS-000491,FI0491,Fixed Income Holding 0491,Fixed Income,High,False,ACTIVE
+INS-000492,AL0492,Alternatives Holding 0492,Alternatives,Medium,False,ACTIVE
+INS-000493,EQ0493,Equity Holding 0493,Equity,Low,False,ACTIVE
+INS-000494,RE0494,Real Estate Holding 0494,Real Estate,Medium,False,ACTIVE
+INS-000495,EQ0495,Equity Holding 0495,Equity,High,False,ACTIVE
+INS-000496,RE0496,Real Estate Holding 0496,Real Estate,Medium,False,ACTIVE
+INS-000497,AL0497,Alternatives Holding 0497,Alternatives,Low,False,ACTIVE
+INS-000498,FI0498,Fixed Income Holding 0498,Fixed Income,Medium,False,ACTIVE
+INS-000499,EQ0499,Equity Holding 0499,Equity,Low,False,ACTIVE
+INS-000500,RE0500,Real Estate Holding 0500,Real Estate,Medium,False,ACTIVE

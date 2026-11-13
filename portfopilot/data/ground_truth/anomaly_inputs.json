@@ -1,0 +1,352 @@
+[
+ {
+  "case_id": "ANOM-000001",
+  "portfolio_id": "PORT-INV-000001-01",
+  "mutation": {
+   "op": "scale_targets",
+   "factor": 0.95
+  }
+ },
+ {
+  "case_id": "ANOM-000002",
+  "portfolio_id": "PORT-INV-000001-02",
+  "mutation": {
+   "op": "scale_targets",
+   "factor": 0.95
+  }
+ },
+ {
+  "case_id": "ANOM-000003",
+  "portfolio_id": "PORT-INV-000002-01",
+  "mutation": {
+   "op": "scale_targets",
+   "factor": 0.95
+  }
+ },
+ {
+  "case_id": "ANOM-000004",
+  "portfolio_id": "PORT-INV-000002-02",
+  "mutation": {
+   "op": "scale_targets",
+   "factor": 0.95
+  }
+ },
+ {
+  "case_id": "ANOM-000005",
+  "portfolio_id": "PORT-INV-000003-01",
+  "mutation": {
+   "op": "scale_targets",
+   "factor": 0.95
+  }
+ },
+ {
+  "case_id": "ANOM-000006",
+  "portfolio_id": "PORT-INV-000003-02",
+  "mutation": {
+   "op": "inject_trade",
+   "trade": {
+    "instrument_id": "INS-000114",
+    "side": "SELL",
+    "quantity": 9626,
+    "price": 69.52,
+    "notional": 669199.52,
+    "fee": 334.6
+   }
+  }
+ },
+ {
+  "case_id": "ANOM-000007",
+  "portfolio_id": "PORT-INV-000004-01",
+  "mutation": {
+   "op": "inject_trade",
+   "trade": {
+    "instrument_id": "INS-000377",
+    "side": "SELL",
+    "quantity": 16043,
+    "price": 49.2,
+    "notional": 789315.6,
+    "fee": 947.18
+   }
+  }
+ },
+ {
+  "case_id": "ANOM-000008",
+  "portfolio_id": "PORT-INV-000005-01",
+  "mutation": {
+   "op": "inject_trade",
+   "trade": {
+    "instrument_id": "INS-000020",
+    "side": "SELL",
+    "quantity": 6783,
+    "price": 62.31,
+    "notional": 422648.73,
+    "fee": 211.32
+   }
+  }
+ },
+ {
+  "case_id": "ANOM-000009",
+  "portfolio_id": "PORT-INV-000006-01",
+  "mutation": {
+   "op": "inject_trade",
+   "trade": {
+    "instrument_id": "INS-000039",
+    "side": "SELL",
+    "quantity": 10143,
+    "price": 37.25,
+    "notional": 377826.75,
+    "fee": 188.91
+   }
+  }
+ },
+ {
+  "case_id": "ANOM-000010",
+  "portfolio_id": "PORT-INV-000006-02",
+  "mutation": {
+   "op": "inject_trade",
+   "trade": {
+    "instrument_id": "INS-000374",
+    "side": "SELL",
+    "quantity": 12419,
+    "price": 75.24,
+    "notional": 934405.56,
+    "fee": 467.2
+   }
+  }
+ },
+ {
+  "case_id": "ANOM-000011",
+  "portfolio_id": "PORT-INV-000007-01",
+  "mutation": {
+   "op": "inject_trade",
+   "mark_restricted": "INS-000001",
+   "trade": {
+    "instrument_id": "INS-000001",
+    "side": "BUY",
+    "quantity": 5,
+    "price": 26.59,
+    "notional": 132.95,
+    "fee": 1.0
+   }
+  }
+ },
+ {
+  "case_id": "ANOM-000012",
+  "portfolio_id": "PORT-INV-000007-02",
+  "mutation": {
+   "op": "inject_trade",
+   "mark_restricted": "INS-000001",
+   "trade": {
+    "instrument_id": "INS-000001",
+    "side": "BUY",
+    "quantity": 5,
+    "price": 26.59,
+    "notional": 132.95,
+    "fee": 1.0
+   }
+  }
+ },
+ {
+  "case_id": "ANOM-000013",
+  "portfolio_id": "PORT-INV-000008-01",
+  "mutation": {
+   "op": "inject_trade",
+   "mark_restricted": "INS-000001",
+   "trade": {
+    "instrument_id": "INS-000001",
+    "side": "BUY",
+    "quantity": 5,
+    "price": 26.59,
+    "notional": 132.95,
+    "fee": 1.0
+   }
+  }
+ },
+ {
+  "case_id": "ANOM-000014",
+  "portfolio_id": "PORT-INV-000008-02",
+  "mutation": {
+   "op": "inject_trade",
+   "mark_restricted": "INS-000001",
+   "trade": {
+    "instrument_id": "INS-000001",
+    "side": "BUY",
+    "quantity": 5,
+    "price": 26.59,
+    "notional": 132.95,
+    "fee": 1.0
+   }
+  }
+ },
+ {
+  "case_id": "ANOM-000015",
+  "portfolio_id": "PORT-INV-000009-01",
+  "mutation": {
+   "op": "inject_trade",
+   "mark_restricted": "INS-000001",
+   "trade": {
+    "instrument_id": "INS-000001",
+    "side": "BUY",
+    "quantity": 5,
+    "price": 26.59,
+    "notional": 132.95,
+    "fee": 1.0
+   }
+  }
+ },
+ {
+  "case_id": "ANOM-000016",
+  "portfolio_id": "PORT-INV-000010-01",
+  "mutation": {
+   "op": "inject_trade",
+   "trade": {
+    "instrument_id": "INS-000001",
+    "side": "BUY",
+    "quantity": 5,
+    "price": 26.59,
+    "notional": 132.95,
+    "fee": 0.0
+   }
+  }
+ },
+ {
+  "case_id": "ANOM-000017",
+  "portfolio_id": "PORT-INV-000010-02",
+  "mutation": {
+   "op": "inject_trade",
+   "trade": {
+    "instrument_id": "INS-000001",
+    "side": "BUY",
+    "quantity": 5,
+    "price": 26.59,
+    "notional": 132.95,
+    "fee": 0.0
+   }
+  }
+ },
+ {
+  "case_id": "ANOM-000018",
+  "portfolio_id": "PORT-INV-000011-01",
+  "mutation": {
+   "op": "inject_trade",
+   "trade": {
+    "instrument_id": "INS-000001",
+    "side": "BUY",
+    "quantity": 5,
+    "price": 26.59,
+    "notional": 132.95,
+    "fee": 0.0
+   }
+  }
+ },
+ {
+  "case_id": "ANOM-000019",
+  "portfolio_id": "PORT-INV-000011-02",
+  "mutation": {
+   "op": "inject_trade",
+   "trade": {
+    "instrument_id": "INS-000001",
+    "side": "BUY",
+    "quantity": 5,
+    "price": 26.59,
+    "notional": 132.95,
+    "fee": 0.0
+   }
+  }
+ },
+ {
+  "case_id": "ANOM-000020",
+  "portfolio_id": "PORT-INV-000012-01",
+  "mutation": {
+   "op": "inject_trade",
+   "trade": {
+    "instrument_id": "INS-000001",
+    "side": "BUY",
+    "quantity": 5,
+    "price": 26.59,
+    "notional": 132.95,
+    "fee": 0.0
+   }
+  }
+ },
+ {
+  "case_id": "ANOM-000021",
+  "portfolio_id": "PORT-INV-000012-02",
+  "mutation": {
+   "op": "stale_price",
+   "instrument_id": "INS-000151",
+   "days": 20
+  }
+ },
+ {
+  "case_id": "ANOM-000022",
+  "portfolio_id": "PORT-INV-000013-01",
+  "mutation": {
+   "op": "stale_price",
+   "instrument_id": "INS-000069",
+   "days": 20
+  }
+ },
+ {
+  "case_id": "ANOM-000023",
+  "portfolio_id": "PORT-INV-000013-02",
+  "mutation": {
+   "op": "stale_price",
+   "instrument_id": "INS-000108",
+   "days": 20
+  }
+ },
+ {
+  "case_id": "ANOM-000024",
+  "portfolio_id": "PORT-INV-000014-02",
+  "mutation": {
+   "op": "stale_price",
+   "instrument_id": "INS-000488",
+   "days": 20
+  }
+ },
+ {
+  "case_id": "ANOM-000025",
+  "portfolio_id": "PORT-INV-000015-01",
+  "mutation": {
+   "op": "stale_price",
+   "instrument_id": "INS-000307",
+   "days": 20
+  }
+ },
+ {
+  "case_id": "ANOM-000026",
+  "portfolio_id": "PORT-INV-000015-02",
+  "mutation": {
+   "op": "none"
+  }
+ },
+ {
+  "case_id": "ANOM-000027",
+  "portfolio_id": "PORT-INV-000017-01",
+  "mutation": {
+   "op": "none"
+  }
+ },
+ {
+  "case_id": "ANOM-000028",
+  "portfolio_id": "PORT-INV-000018-01",
+  "mutation": {
+   "op": "none"
+  }
+ },
+ {
+  "case_id": "ANOM-000029",
+  "portfolio_id": "PORT-INV-000019-01",
+  "mutation": {
+   "op": "none"
+  }
+ },
+ {
+  "case_id": "ANOM-000030",
+  "portfolio_id": "PORT-INV-000021-01",
+  "mutation": {
+   "op": "none"
+  }
+ }
+]

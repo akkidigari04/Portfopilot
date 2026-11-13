@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: dark; }
+html, body, #root { height: 100%; }
+body {
+  @apply bg-bg text-slate-100 font-sans antialiased;
+  background-image: radial-gradient(900px 420px at 80% -10%, rgba(20,184,166,0.08), transparent 60%),
+                    radial-gradient(700px 380px at -10% 110%, rgba(16,185,129,0.05), transparent 60%);
+  background-attachment: fixed;
+  font-feature-settings: 'cv11', 'ss01';
+}
+.num { font-variant-numeric: tabular-nums; }
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-thumb { background: #223250; border-radius: 8px; border: 2px solid #0A101C; }
+::-webkit-scrollbar-track { background: transparent; }
+.recharts-tooltip-wrapper { outline: none; }
+:focus-visible { outline: 2px solid #2DD4BF; outline-offset: 2px; border-radius: 6px; }

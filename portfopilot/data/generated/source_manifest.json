@@ -1,0 +1,28 @@
+{
+ "project": "PortfoPilot",
+ "mode": "starter",
+ "seed": 20261022,
+ "as_of": "2026-10-22",
+ "provenance": "100% synthetic; numpy default_rng(seed)",
+ "row_counts": {
+  "investors": 85,
+  "portfolios": 100,
+  "instruments": 500,
+  "holdings": 483,
+  "market_prices": 29767,
+  "target_allocations": 600,
+  "fee_schedules": 3,
+  "constraints": 7
+ },
+ "checksums_sha256": {
+  "investors.csv": "1b6d0d985ee04d2ee3ce7771dca774218bafd708075b606897b086f85c6e3752",
+  "portfolios.csv": "22896b13e64311e6503009606242c36a8ded04a0e30e28ace173d139cf9e085b",
+  "instruments.csv": "19a2590582c61eeecadc6a7f17abfa8b60021da86de543ac0d4be3a10f511f66",
+  "holdings.csv": "3f4397eafd6a1f2e8c551b31f81db3350454723c029d3c9ea9a2b16d3519d015",
+  "market_prices.csv": "8568e6bc8add851c990dc714fecdaf886bf3957d240a86b694772a7cea04617f",
+  "target_allocations.csv": "c72bb53937d779fb14e27cc2fdc3c857cad9a5837aff56ec117716ce7242f7e5",
+  "fee_schedules.csv": "051e5d8789136b0575a2c0b6f0ff87a287bb22cc0eefae93ad7b93f598934361",
+  "constraints.csv": "a5e7c8df911bb5041db2b11205eb681dab013abc2c676188c1bd77279f4b325a"
+ },
+ "ground_truth_checksum": "b71768a799cbdc7fd501711438b33c7292433bb928538afae5f688a3908eff53"
+}

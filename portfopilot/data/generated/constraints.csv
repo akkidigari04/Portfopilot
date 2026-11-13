@@ -1,0 +1,8 @@
+constraint_id,name,value,scope,severity,description,effective_from
+CON-001,MAX_DRIFT,5.0,GLOBAL,HIGH,Maximum absolute asset-class drift (percentage points).,2026-01-01
+CON-002,MIN_TRADE,500,GLOBAL,LOW,Minimum order notional in USD.,2026-01-01
+CON-003,MAX_FEE_PCT,0.5,GLOBAL,MEDIUM,Max total fees as % of trading volume.,2026-01-01
+CON-004,MIN_CASH_PCT,1.0,GLOBAL,MEDIUM,Minimum cash reserve after trading (% of portfolio).,2026-01-01
+CON-005,STALE_DAYS,5,GLOBAL,MEDIUM,Calendar days after which a price is stale.,2026-01-01
+CON-006,STALE_POLICY,WARN,GLOBAL,HIGH,WARN or BLOCK when held instruments have stale prices.,2026-01-01
+CON-007,RISK_BLOCKED_BUY_CONSERVATIVE,Alternatives,RISK,HIGH,Asset classes Conservative portfolios may not buy ('|' separated).,2026-01-01
