@@ -6,7 +6,16 @@ from backend.app.models import models  # noqa: F401
 
 app = FastAPI(title="PortfoPilot API", version="1.0.0",
               description="Educational portfolio rebalancing simulation. Not financial advice.")
-app.add_middleware(CORSMiddleware, allow_origins=["http://localhost:5173"], allow_methods=["*"], allow_headers=["*"])
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[
+        "http://localhost:5173",
+        "https://portfopilot.vercel.app",
+    ],
+    allow_origin_regex=r"https://.*\.vercel\.app",
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 Base.metadata.create_all(engine)
 app.include_router(router)
 
